@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhaskar Koilada</h1>
-<h3 align="center">I am a professional MERN Stack developer and have been working in this field for 5 years.I have solid knowledge in programming and Front-end and Back-end Web Development. I am also skillful in problem-solving methods and acquainted with skills like Python, XML, JSON, HTML5, CSS, Bootstrap, SQL, MySQL, JavaScript, Node, Express, React.js, Redux, Ajax, MongoDB. Thank You</h3>
+<h3 align="center">I am a professional MERN Stack developer and have been working in this field for 3 years.I have solid knowledge in programming and Front-end and Back-end Web Development. I am also skillful in problem-solving methods and acquainted with skills like Python, XML, JSON, HTML5, CSS, Bootstrap, SQL, MySQL, JavaScript, Node, Express, React.js, Redux, Ajax, MongoDB. Thank You</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koilada-rao-au16&label=Profile%20views&color=0e75b6&style=flat" alt="koilada-rao-au16" /> </p>
 
